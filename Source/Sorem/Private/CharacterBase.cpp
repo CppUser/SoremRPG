@@ -46,7 +46,7 @@ ACharacterBase::ACharacterBase()
 	//So Mesh turn where camera face
 	GetCharacterMovement()->bOrientRotationToMovement = true; // turn to direction where mesh physically moving .....
 	GetCharacterMovement()->RotationRate = FRotator(0.0f, 540.f, 0.0f); // at this YAW rotation rate
-	GetCharacterMovement()->JumpZVelocity = 650.f; //Jump velocity
+	GetCharacterMovement()->JumpZVelocity = 600.f; //Jump velocity
 	GetCharacterMovement()->AirControl = 0.2f; //Air control is let to control character in air
 
 	

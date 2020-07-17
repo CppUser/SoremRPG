@@ -1,0 +1,7 @@
+C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\Definitions.Sorem.h
+C:\Users\thecp\Documents\Unreal Projects\Sorem\Source\Sorem\SoremGameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Inc\Sorem\SoremGameModeBase.generated.h

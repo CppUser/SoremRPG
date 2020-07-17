@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sorem.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{96191C30-74BC-4DFC-AA6A-F7F63A904722}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sorem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SoremEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{24B61D12-4961-4C17-8441-619CC4889EA4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Sorem">
+      <UniqueIdentifier>{6006D176-5607-4D9E-ACF7-0300A9195F25}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sorem\Sorem.Build.cs">
+      <Filter>Source\Sorem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sorem\Sorem.cpp">
+      <Filter>Source\Sorem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sorem\Sorem.h">
+      <Filter>Source\Sorem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sorem\SoremGameModeBase.cpp">
+      <Filter>Source\Sorem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sorem\SoremGameModeBase.h">
+      <Filter>Source\Sorem</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\Sorem\Public">
+      <UniqueIdentifier>{ed169e8b-707e-41ca-a9d3-c1adb00ce19f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Sorem\Private">
+      <UniqueIdentifier>{129d3f26-8ddf-4c10-a2e7-5b5b0395c19a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Sorem\Public\CharacterBase.h">
+      <Filter>Source\Sorem\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Sorem\Public\PlayerControllerBase.h">
+      <Filter>Source\Sorem\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Sorem\Public\MyBlueprintFunctionLibrary.h">
+      <Filter>Source\Sorem\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Sorem\Private\CharacterBase.cpp">
+      <Filter>Source\Sorem\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Sorem\Private\PlayerControllerBase.cpp">
+      <Filter>Source\Sorem\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Sorem\Private\MyBlueprintFunctionLibrary.cpp">
+      <Filter>Source\Sorem\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\Definitions.Sorem.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\thecp\Documents\Unreal Projects\Sorem\Source\Sorem/Public/PlayerControllerBase.h
+C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Inc\Sorem\PlayerControllerBase.generated.h

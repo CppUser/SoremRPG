@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Sorem-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\SoremEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\CharacterBase.cpp.obj"
+"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\Sorem.cpp.obj"
+"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\SoremGameModeBase.cpp.obj"
+"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\CharacterBase.gen.cpp.obj"
+"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\Sorem.init.gen.cpp.obj"
+"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\SoremGameModeBase.gen.cpp.obj"
+"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\Default.rc2.res"
+/OUT:"C:\Users\thecp\Documents\Unreal Projects\Sorem\Intermediate\Build\Win64\UE4Editor\Development\Sorem\UE4Editor-Sorem-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_Sorem
